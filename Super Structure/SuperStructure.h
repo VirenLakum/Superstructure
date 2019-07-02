@@ -1,9 +1,9 @@
-/****************************************************/
-/*	Project:		Superstructure					*/
-/*	File:			SuperStructure.h				*/
+/********************************************************/
+/*	Project:		Superstructure		*/
+/*	File:			SuperStructure.h	*/
 /*	Description:	Superstructure implementation	*/
-/*	Author:			Viren Lakum (VL)				*/
-/****************************************************/
+/*	Author:			Viren Lakum (VL)	*/
+/********************************************************/
 
 #include <iostream>
 using namespace std;
